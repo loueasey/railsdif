@@ -11,4 +11,5 @@
 	+ familiarising with basic Rails concepts
 		#MVC
 		#DRY
+		#REST
 	
